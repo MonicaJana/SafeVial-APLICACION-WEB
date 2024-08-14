@@ -11,7 +11,7 @@ const options = {
     },
     "servers": [
       {
-        "url": "https://proyecto-backend-vial.onrender.com/SourceCraft"
+        "url": "https://safevial-aplicacion-web.onrender.com"
       }
     ],
     "tags": [
