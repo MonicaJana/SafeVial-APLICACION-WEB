@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@react-google-maps/api": "^2.19.3",
+    "jwt-decode": "^4.0.0"
+  }
+}
